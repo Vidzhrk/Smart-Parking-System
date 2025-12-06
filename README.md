@@ -68,6 +68,10 @@ Each slot has **one IR sensor**:
 | IR Exit | GPIO 26 |
 | Slot Sensors | GPIO 3,4,5,12,13,14,15,16,17,18 |
 
+### Simulation (online)
+
+[View simulation on Wokwi](https://wokwi.com/projects/449577927265103873)
+
 ### ESP32-S2 (Simulation)
 | Function | Pin |
 |--------|----|
