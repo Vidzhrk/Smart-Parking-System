@@ -72,6 +72,10 @@ Each slot has **one IR sensor**:
 
 [View simulation on Wokwi](https://wokwi.com/projects/449577927265103873)
 
+Click to open the Smart Lights project on Wokwi 👇  
+[![Smart Lights Simulation](https://thumbs.wokwi.com/projects/449577927265103873/thumbnail.jpg)](https://wokwi.com/projects/449577927265103873)
+
+
 ### ESP32-S2 (Simulation)
 | Function | Pin |
 |--------|----|
